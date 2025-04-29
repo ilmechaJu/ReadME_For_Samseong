@@ -50,13 +50,14 @@ export JIRA_MIGRATION_JIRA_PROJECT_NAME=<Jira 프로젝트 키 이름>
 
 *Jira 프로젝트 키 이름은 프로젝트 경로에서 확인할 수 있습니다.(아래 이미지 참조)
 
-![image](https://github.com/user-attachments/assets/3f6150e6-473a-477a-83c8-a7b454390be4)
+![image](https://github.com/user-attachments/assets/fb3fcd74-c471-4e7c-a6ae-1c7fd2b5f956)
+
 
 
 <br><br><br>
 
 ## 지원 버전 및 사용법
-![image](https://github.com/user-attachments/assets/d2d7c44d-465d-4360-afd8-114b7a917b70)
+![image](https://github.com/user-attachments/assets/6c5fb77a-25db-4758-a8e5-3b8c40b77678)
 - JIRA -> GHEC로 Migration을 원하시는 경우, **커밋 id = e646fb8** 을 clone 받아서 사용해주시고,
 - JIRA -> GHES로 Migration을 원하시는 경우, **커밋 id = c002fa5** 를 clone 받아서 사용해주시고,
 - **프로젝트 보드까지 포함한 기능** 사용을 원하시는 경우, **최신 커밋**을 사용해주세요.
