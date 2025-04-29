@@ -11,8 +11,6 @@
 4. (기능추가) JIRA -> GHES(Enterprise Server)지원.
 5. (기능추가) JIRA -> GHES 이전 시, 이슈, 마일스톤, 라벨뿐만 아니라 '프로젝트' 도 함께 이전이 가능해졌습니다.
   - GHES 프로젝트를 자동으로 만들어주고, JIRA의 상태(Todo, In Progress, Holding, Done)를 GHES의 프로젝트 보드 상태로 자동맵핑.
-6. JIRA -> GHES(User), GHES(Organization) 모두 Migration 가능.
-
 
 
 ### **[JIRA에 등록되어있는 상태(Todo, In Progress, Holding, Done)]**
@@ -40,8 +38,7 @@
 
 **<사용된 환경변수>**
 ```bash
-export GITHUB_ENTERPRISE_DNS="https://<GHES 도메인>.com"
-export GITHUB_ENTERPRISE_URL="https://<GHES 도메인과 맵핑된 실제 ip주소>.com"
+export GITHUB_ENTERPRISE_URL="https://<GHES 도메인>.com"
 export JIRA_MIGRATION_GITHUB_ACCESS_TOKEN="<GHES 액세스 토큰>"
 export JIRA_MIGRATION_GITHUB_NAME="<github 유저 이름>"
 export JIRA_MIGRATION_GITHUB_REPO="<repository 이름>"
