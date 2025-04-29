@@ -14,11 +14,13 @@
 
 
 ### **[JIRA에 등록되어있는 상태(Todo, In Progress, Holding, Done)]**
-![image](https://github.com/user-attachments/assets/8afa5a51-fb44-458c-a547-c1be7d69060a)
+![image](https://github.com/user-attachments/assets/7effc6ec-9747-4153-a557-958af7a68c66)
+
 
 
 ### **[GHES에 등록되어있는 상태(Todo, In Progress, Holding, Done)]**
-![image](https://github.com/user-attachments/assets/7a1645de-e48d-4748-8e3b-c672dca25bf8)
+![image](https://github.com/user-attachments/assets/b6c0ed0c-de1b-486a-af8e-77a770b3a68d)
+
 
 
 **<필수 권한>**
